@@ -1,0 +1,14 @@
+.app-container {
+  max-width: 1000px;
+  width: min(92%, 870px);
+  margin-inline: auto;
+  padding: 25px;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+
+
+
+

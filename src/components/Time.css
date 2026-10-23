@@ -1,0 +1,12 @@
+.time{
+    font-size: 0.7rem;
+    color: rgb(79, 29, 29);
+    margin-top: 0.3rem;
+    font-family: cursive;
+}
+.time.right {
+    text-align: right;
+}
+.time.left{
+    text-align: left;
+}
