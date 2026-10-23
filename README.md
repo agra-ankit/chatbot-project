@@ -10,8 +10,7 @@ An interactive, responsive chat application built with **React 19**, **Vite**, a
 
 ## 🌟 Live Demo
 
-> 🔗 **Live URL:** *[Deploy on Vercel to add your live link here]*  
-> *(e.g., `https://react-ai-chatbot-demo.vercel.app`)*
+> 🔗 **Live Application:** [https://chatbot-project-livid.vercel.app](https://chatbot-project-livid.vercel.app)
 
 ---
 
