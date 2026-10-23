@@ -99,22 +99,6 @@ chatbot-project/
 
 ---
 
-## 🌐 Deploy to Vercel (1-Click)
-
-The fastest and easiest way to deploy this React + Vite app is using [Vercel](https://vercel.com):
-
-1. Push this repository to your GitHub account.
-2. Sign in to [Vercel](https://vercel.com) using your GitHub account.
-3. Click **"Add New..."** > **"Project"**.
-4. Select the `chatbot-project` repository.
-5. Vercel automatically detects **Vite** settings:
-   - **Framework Preset:** Vite
-   - **Build Command:** `npm run build`
-   - **Output Directory:** `dist`
-6. Click **Deploy**! Your project will be live with a free SSL domain in under a minute.
-
----
-
 ## 📝 License
 
 This project is licensed under the MIT License.
